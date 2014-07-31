@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trigger keyword="Show My Protocols">
+     <constraints 
+         network="false" 
+    	 camera="true" />
+    </trigger>

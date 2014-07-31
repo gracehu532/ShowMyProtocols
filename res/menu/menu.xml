@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+ <menu xmlns:android="http://schemas.android.com/apk/res/android">\
+    
+      
+    <item android:id="@+id/switch_protocol"
+	      android:icon="@drawable/ic_search_50"
+          android:title="@string/switch_protocol">
+          <menu>
+        	<item android:id="@+id/moclo_menu"
+          		  android:icon="@drawable/ic_search_50"
+      			  android:title="@string/moclo_menu" />
+	 		<item android:id="@+id/trans_menu"
+        		  android:icon="@drawable/ic_search_50"
+      	  		  android:title="@string/trans_menu"/>
+     		<item android:id="@+id/minip_menu"
+        		  android:icon="@drawable/ic_search_50"
+        		  android:title="@string/minip_menu" />
+      		<item android:id="@+id/broth_menu"
+      			  android:icon="@drawable/ic_search_50"
+       			  android:title="@string/broth_menu"/>
+			<item android:id="@+id/agar_menu"
+         		  android:icon="@drawable/ic_search_50"
+         		  android:title="@string/agar_menu" />
+			
+			</menu>
+			</item>
+	
+	<item android:id="@+id/capture_marker"
+          android:icon="@drawable/ic_search_50"
+          android:title="@string/capture_marker" />
+	
+	<item android:id="@+id/show_mult"
+	      android:icon="@drawable/ic_search_50"
+          android:title="@string/show_mult">
+		<menu>
+	        <item android:id="@+id/enable"
+	              android:title="@string/enable" />
+	        <item android:id="@+id/disable"
+	              android:title="@string/disable" />
+	    </menu>
+    </item>
+</menu>
+
+<!--   <?xml version="1.0" encoding="utf-8"?>
+
+
+ <menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+     <item android:id="@+id/moclo_menu"
+          android:icon="@drawable/ic_search_50"
+          android:title="@string/moclo_menu" />
+	
+     <item android:id="@+id/trans_menu"
+          android:icon="@drawable/ic_search_50"
+          android:title="@string/trans_menu"/>
+     
+     <item android:id="@+id/minip_menu"
+          android:icon="@drawable/ic_search_50"
+          android:title="@string/minip_menu" />
+     
+    <item android:id="@+id/broth_menu"
+          android:icon="@drawable/ic_search_50"
+          android:title="@string/broth_menu"/>
+
+	<item android:id="@+id/agar_menu"
+          android:icon="@drawable/ic_search_50"
+          android:title="@string/agar_menu" />
+
+	<item android:id="@+id/one_agar_gel"
+          android:icon="@drawable/ic_search_50"
+          android:title="@string/one_agar_menu" />
+</menu>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"></menu>
+    
+    
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"></menu>
+-->

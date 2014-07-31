@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HandGesture</string>
+    <string name="capture_marker">capture marker</string>
+    <string name="capture">capture</string>
+    <string name="capture_again">retake</string>
+    <string name="selected">ok</string>
+    <string name="capture_blue">capture blue</string>
+    <string name="current_slide">current</string>
+     <string name="is_enabled">isEnabled</string>
+     <string name="bookmarked_page">bookmark</string>
+    
+    <string name="switch_protocol">Switch Protocol</string>
+    <string name="moclo_menu">MoClo</string>
+	<string name="trans_menu">Transformations</string>
+	<string name="minip_menu">Mini Prep</string>
+	<string name="broth_menu">LB Broth</string>
+	<string name="agar_menu">LB Agar</string>
+	
+	<string name="show_mult">Show Multiple Cards</string>
+	<string name="enable">Enable</string>
+	<string name="disable">Disable</string>
+	
+	<!--  ADDED 7/7 VOICE DEMO -->
+    <string name="voicedemo_screen_content">Voice Demo\nIs Now Active</string>
+    <string name="voicedemo_livecard_content">Voice Demo\nIs Currently Active</string>
+
+    <string name="title_activity_voicedemo">Voice Demo</string>
+    <string name="title_activity_voice_dictation">Voice Dictation</string>
+    <string name="voicedictation_content">Tap to start dictation</string>
+
+    <!--  VoiceDemoLocalService  -->
+    <string name="voicedemo_localservice_started">Voice Demo Service started.</string>
+
+    <!--  For voice input  -->
+    <string name="voicedemo_voice_trigger">start voice demo</string>
+    <string name="voicedemo_voice_prompt">next action</string>
+	
+</resources>
